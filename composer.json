@@ -1,10 +1,10 @@
 
 {
-    "name": "fxxph/designpatterns",
+    "name": "fxxph/php-design-demo",
     "type": "demo",
     "description": "php design patterns",
     "keywords": ["php","design patterns"],
-    "homepage": "https://github.com/fxxph/DesignPatterns",
+    "homepage": "https://github.com/fxxph/Php-Design-Demo",
     "license": "MIT",
     "authors": [
         {
