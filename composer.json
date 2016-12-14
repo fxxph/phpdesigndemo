@@ -1,10 +1,7 @@
-
 {
     "name": "fxxph/php-design-demo",
     "description": "php design demo",
     "keywords": ["php","design demo"],
-    "homepage": "https://github.com/fxxph/Php-Design-Demo",
-    "license": "MIT",
     "authors": [
         {
             "name": "hexuezhang",
@@ -12,8 +9,5 @@
             "homepage": "http://www.hexuezhang.cn",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    ]
 }
