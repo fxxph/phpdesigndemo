@@ -1,12 +1,20 @@
 {
-    "name": "fxxph/php-design-demo",
-    "description": "php design demo",
-    "keywords": ["php","design demo"],
-    "authors": [
-        {
-            "name": "hexuezhang",
-            "email": "hexuezhang@163.com",
-            "role": "Developer"
-        }
-    ]
+  "name": "fxxph/php-design-demo",
+  "description": "php design demo",
+  "keywords": [
+    "php",
+    "design demo"
+  ],
+  "authors": [
+    {
+      "name": "hexuezhang",
+      "email": "hexuezhang@163.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "fxxph\\Php_Design_Demo\\": ""
+    }
+  }
 }
