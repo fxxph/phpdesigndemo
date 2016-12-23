@@ -1,11 +1,11 @@
 <?php
-namespace fxxph\Php_Design_Demo;
+namespace fxxph\PhpDesignDemo;
 
 /**
  * Class Php_Design_Demo
  * @package fxxph\Php_Design_Demo
  */
-class Php_Design_Demo
+class demo
 {
     function __construct()
     {

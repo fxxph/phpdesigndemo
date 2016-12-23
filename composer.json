@@ -1,5 +1,5 @@
 {
-  "name": "fxxph/php-design-demo",
+  "name": "fxxph/PhpDesignDemo",
   "description": "php design demo",
   "keywords": [
     "php",
@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "fxxph\\Php_Design_Demo\\": ""
+      "fxxph\\PhpDesignDemo\\": ""
     }
   }
 }
