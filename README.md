@@ -3,6 +3,7 @@ php 设计模式 示例
 
 
 用法：
+
   //Autoload 自动载入【注意vendor目录】 
 
   require './vendor/autoload.php';
