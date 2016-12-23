@@ -1,9 +1,9 @@
 <?php
-namespace fxxph\PhpDesignDemo;
+namespace fxxph\phpdesigndemo;
 
 /**
- * Class Php_Design_Demo
- * @package fxxph\Php_Design_Demo
+ * Class phpdesigndemo
+ * @package fxxph\phpdesigndemo
  */
 class demo
 {
