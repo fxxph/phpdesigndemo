@@ -15,8 +15,8 @@ class demo
     /**
      * detail
      */
-    public function detail()
+    public static function detail()
     {
-        echo __CLASS__;
+        echo 'success!,access ' . __CLASS__;
     }
 }
